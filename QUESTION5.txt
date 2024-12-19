@@ -1,0 +1,9 @@
+List Out the different types of classification in DBMS and explain?
+ANSWER:
+        DIFFERENT TYOES OF CLASSIFICATION IN DBMS:
+            ⁍DATA MODEL:-
+                1)Hierarchical model- IN THIS DATA IS STORED IN TREE TYPE MODEL
+                2)TABULAR MODEL- IN THIS DATA IS  STORED IN TABULAR MODEL
+            ⁍DATABASE DISTRIBUTION:-
+                1)DISTRIBUTED DATABASE-A collection of related data in multiple interconnected databases. 
+                2)CENTRALISED DATABASE-A database that operates entirely within a single location, typically on a central computer or database system    

@@ -1,0 +1,17 @@
+Explain 5 challenges of file-based storage system which was tackled by DBMS
+ANSWER:
+       CHALANGES OF FILE-BASED STORAGE SYSTEM:
+            i)FINDING RECORDS
+            ii)DUPLICATION OF RECORDS
+            iii)DOESN'T ALLOW TO MAKE QUERIES ON DATA
+            iv)LACK OF SECURITY
+            v)LACK OF DATA BACKUP
+
+        SOLUTIONS MADE BY DATABASE:
+            i)EASILY FIND RECORDS WITH THE HELP OF QUERIES
+            ii)EASILY FIND DUPLICATE RECORDS
+            iii)ALLOW TO MAKE QUERIES ON DATA
+            iv)PROVIDES SECURITY OF DATA
+            v)PRDOVIDES BACKUP OF
+
+      

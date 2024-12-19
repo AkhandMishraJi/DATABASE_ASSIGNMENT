@@ -1,0 +1,9 @@
+What is the significance of Data Modelling and explain the types of Data Modelling?
+ANSWER:
+        Data modeling is a visual representation of an organization's data that helps stakeholders understand how data is collected, stored, and analyzed. It's a foundational element of software development and analytics, and it's important because it: 
+        i)Improves data analytic
+        ii)Reduces errors
+        iii)Promotes standardization
+        iv)Supports scalability
+        v)Facilitates data governance
+

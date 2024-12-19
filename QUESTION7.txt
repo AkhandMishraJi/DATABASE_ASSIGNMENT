@@ -1,0 +1,6 @@
+Explain 3 schema architecture along with its advantages ?
+ANSWER:
+        Three-schema architecture is a database design approach that separates data views into three layers: 
+            i)External: The programming view, or how users see the data
+            ii)Conceptual: The data administration view, or the logical structure of the data
+            iii)Internal: The database administration view, or how the data is stored
